@@ -1,0 +1,10 @@
+---
+import { getEntry } from 'astro:content'
+const post = await getEntry('posts', 'my-first-post')
+const { Content } = await post.render()
+---
+
+<main>
+  <h1>{post.data.title}</h1>
+  <Content />
+</main>
