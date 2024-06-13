@@ -1,0 +1,17 @@
+{
+  "name": "Mark",
+  "avatar": "/images/avatars/mark/avatar.jpg",
+  "showcase": [
+    {
+      "discriminant": "link",
+      "value": {
+        "label": "astro",
+        "url": "https://astro.build"
+      }
+    },
+    {
+      "discriminant": "youtubeVideoId",
+      "value": "gU-OVvsvGKiPz77Z"
+    }
+  ]
+}

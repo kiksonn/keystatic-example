@@ -1,0 +1,17 @@
+{
+  "name": "simon",
+  "avatar": "/images/avatars/simon/avatar.jpg",
+  "showcase": [
+    {
+      "discriminant": "link",
+      "value": {
+        "label": "chatgpt",
+        "url": "https://chatgpt.com/c/ce3a6ae9-53d5-44c8-8925-67a1a060fbf4"
+      }
+    },
+    {
+      "discriminant": "youtubeVideoId",
+      "value": "yKTxm_X6ySLd79qi"
+    }
+  ]
+}
